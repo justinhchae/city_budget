@@ -121,3 +121,4 @@ dmypy.json
 *.DS_Store
 src/satyrn-platform/
 src/satyrn-templates/
+src/satyrn-platform
