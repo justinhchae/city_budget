@@ -66,6 +66,7 @@ def make_normalized(df):
     data_tables = []
 
     for code, description in cols_to_normalize:
+        # format file names to help synch databse upload in utils_alchemy
         t1, t2 = description.split('_')
         t2 = t2.title()
         temp_name = ''.join([t1, t2])
