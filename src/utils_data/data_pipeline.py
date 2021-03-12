@@ -5,8 +5,8 @@ def run_dataprep_pipeline(filename):
     df = pd.read_csv(full_path)
 
     df, data_tables = (df.pipe(parse_column_names)
-            .pipe(parse_position_control_column)
-            .pipe(make_normalized)
-          )
+                         .pipe(parse_position_control_column)
+                         .pipe(make_normalized)
+                       )
 
     return df, data_tables
