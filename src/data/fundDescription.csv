@@ -1,0 +1,77 @@
+id,fund_code,fund_description
+0,0100,Corporate Fund
+1,0200,Water Fund
+2,0300,Vehicle Tax Fund
+3,0310,Motor Fuel Tax Fund
+4,0314,Sewer Fund
+5,0346,Library Fund
+6,0353,Emergency Communication Fund
+7,0355,Special Events and Municipal Hotel Operators' Occupation Tax Fund
+8,0610,Chicago Midway Airport Fund
+9,0740,Chicago O'Hare Airport Fund
+10,0996,Affordable Housing Opportunity Fund
+11,0B21,Tax Increment Financing Administration Fund
+12,0B32,Garbage Collection Fund
+13,0B41,Neighborhood Opportunity Fund
+14,0075,Grants Management Fund
+15,0H04,Family Connects
+16,0H26,Resource Conservation and Recovery Act - Subtitle D
+17,0P20,Illinois Department of Commerce and Economic Opportunity
+18,0U07,Lead Poisoning Surveillance
+19,0U09,Hospital Preparedness Program (HPP)
+20,0U10,Public Health Emergency Preparedness (PHEP)
+21,0U23,Immunizations and Vaccines for Children
+22,0U27,Morbidity and Risk Behavior Surveillance / Medical Monitoring Project
+23,0U36,Tuberculosis Control
+24,0U40,Integrated HIV Surveillance and Protection
+25,0U44,Lead Hazard Reduction
+26,0U49,C3 Clinical and Translation Research
+27,0U50,Air Pollution Control Program
+28,0U52,Building Epidemiology and Health It Capacity
+29,0U58,Genetics Education / Follow Up Services
+30,0U65,Sexually Transmitted Disease Prevention
+31,0U86,Overdose Data to Action
+32,0U90,Housing Opportunities for People with AIDS (HOPWA)
+33,0U92,Ryan White HIV Care Act Part A - Emergency Relief
+34,0V35,Securing the Cities
+35,0W21,Uniform Work Program
+36,0W38,Illinois Library Development - Per Capita and Area
+37,0W39,MO - Private Grants
+38,0W43,Home Investment Partnership
+39,0W48,Work Incentive Planning and Assistance
+40,0W50,Motor Vehicle Theft Prevention
+41,0W53,Law Enforcement-Based Victim Specialist Program
+42,0W59,Urban Areas Security Initiative
+43,0W63,Underground Storage Tank Inspection
+44,0X16,Solid Waste Management
+45,0Y62,Early Head Start - Child Care Partnership
+46,0Y69,Senior Employment Specialist
+47,0Y78,Alzheimer's Disease Program Initiative
+48,0Y84,Community Services Block Grant
+49,0Y87,Foster Grandparents
+50,0Y88,Area Plan on Aging
+51,0Y93,Local Health Protection
+52,0Y95,Maternal and Child Health
+53,0Y96,Ryan White HIV Care Act - Part A Emergency Relief
+54,0Y97,Childhood Lead Poisoning Prevention
+55,0Y98,Women  Infants and Children Nutrition
+56,0Z39,Anadarko / Streeterville Removal
+57,0Z52,Workforce Innovation
+58,G001,Substance Abuse Prevention
+59,G004,Head Start and Early Head Start
+60,G005,Senior Companion Project - ACTION
+61,G007,CHA Family Supportive Services
+62,G010,Emergency and Transitional Housing
+63,G011,Child Care Services
+64,G012,Emergency Solutions
+65,G014,Senior Health Assistance Program
+66,G015,Early Childhood Block Grant
+67,G016,Edward Byrne Memorial Justice Assistance Grant (JAG)
+68,G018,Transit Security
+69,G019,COPS Hiring Program
+70,G027,Violence Against Women - Domestic Violence Response
+71,G031,Fire Academy Training and Improvement
+72,G033,Tobacco Free Communities
+73,G037,Mosquito Vector Prevention Program (Tire Funds)
+74,G041,HIV Behaviorial Surveillance
+75,0J47,Community Development Block Grant Year XLVII

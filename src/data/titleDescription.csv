@@ -1,0 +1,1206 @@
+id,title_code,title_description
+0,9901,Mayor
+1,9869,Senior Advisor to the Mayor
+2,9639,Assistant to Mayor
+3,9637,Administrative Assistant
+4,9874,Project Manager - Mayor's Office
+5,9877,Director - Mayor's Office
+6,9876,Scheduler
+7,9870,Advance
+8,9899,Chief of Staff
+9,9891,Administrative Assistant - Office Administrator
+10,9889,First Deputy Chief of Staff
+11,9854,Communications Director
+12,9642,Deputy Press Secretary
+13,9616,Assistant Press Secretary
+14,9615,Press Secretary
+15,0925,Photographer
+16,0740,Press Aide
+17,9896,Chief Financial Officer
+18,9898,Deputy Chief of Staff
+19,9873,Assistant Deputy Chief of Staff
+20,9865,Analyst - Mayor's Office
+21,3858,Director / Community Liaison
+22,9875,Senior Project Manager - Mayor's Office
+23,9872,Deputy Mayor
+24,9871,Assistant Deputy Mayor
+25,9866,Senior Analyst - Mayor's Office
+26,9892,Office Manager - Washington D.C.
+27,9855,Assistant Director - Mayor's Office
+28,9807,Legislative Assistant
+29,9670,Director of Intergovernmental Affairs
+30,9671,Chief Diversity Officer
+31,9903,Inspector General
+32,1727,Information Analyst - IG
+33,1721,Senior Information Analyst - IG
+34,1719,Senior Forensic Data Analyst
+35,1717,Chief Data and Information Analyst
+36,1327,Supervisor of Personnel Administration
+37,0802,Executive Administrative Assistant II
+38,0790,Public Relations Coordinator
+39,0705,Director of Public Affairs
+40,0645,Technical Support Administrator - IG
+41,0641,Forensic Data Analyst
+42,0634,Data Services Administrator
+43,0323,Administrative Assistant III - Excluded
+44,0126,Financial Officer
+45,0015,Schedule Salary Adjustments
+46,9665,First Deputy Inspector General
+47,1645,Associate Staff Attorney
+48,1262,Assistant Inspector General
+49,1202,Associate General Counsel - IG
+50,0308,Staff Assistant
+51,9659,Deputy Inspector General
+52,5633,Project Director
+53,1260,Chief Investigator - IG
+54,1230,Complaint Intake Specialist - IGO
+55,1222,Investigator III - IG
+56,1221,Investigator II - IG
+57,1219,Investigator I - IG
+58,1126,Senior Performance Analyst
+59,1125,Performance Analyst
+60,1289,Investigative Analyst
+61,1127,Chief Performance Analyst
+62,1368,Compliance Officer
+63,1216,Chief of Hiring Oversight
+64,0310,Project Manager
+65,9905,Budget Director
+66,9868,First Deputy Budget Director
+67,0309,Coordinator of Special Projects
+68,0305,Assistant to the Executive Director
+69,9656,Deputy Budget Director
+70,1124,Assistant Budget Director
+71,1105,Senior Budget Analyst
+72,0229,Chief Revenue Analyst
+73,9684,Deputy Director
+74,1322,Assistant Director of Compensation Control
+75,1310,Administrative Services Officer II - Excluded
+76,0647,Senior Programmer Analyst - Excluded
+77,0601,Director of Information Systems
+78,1107,Principal Budget Analyst
+79,1141,Principal Operations Analyst
+80,1103,Budget Analyst
+81,9699,Legislative Aide
+82,9645,Assistant to the Alderman
+83,9625,Staff Assistant to the Alderman
+84,9619,Sergeant at Arms
+85,9611,Assistant Sergeant-At-Arms
+86,9603,Assistant Council Committee Secretary
+87,9601,Alderman
+88,9831,Legislative Budget Analyst
+89,9678,Legislative Fiscal Analyst
+90,9613,Chief Administrative Officer
+91,9921,Commissioner of Housing
+92,9813,Managing Deputy Commissioner
+93,2901,Director of Planning  Research and Development
+94,1985,Coordinator of Economic Development II - Planning and Development
+95,1912,Project Coordinator
+96,1430,Policy Analyst
+97,0801,Executive Administrative Assistant I
+98,1989,Director of Loan Processing
+99,1987,Loan Processing Officer
+100,1437,Financial Planning Analyst - Excluded
+101,2915,Program Auditor II
+102,0313,Assistant Commissioner
+103,9925,City Clerk
+104,9629,Secretary to City Clerk
+105,1302,Administrative Services Officer II
+106,1246,Director of License Administration
+107,0378,Administrative Supervisor
+108,0315,Deputy City Clerk
+109,0311,Projects Administrator
+110,1614,Proofreader - City Clerk
+111,0770,Index Editor
+112,0725,Editorial Assistant
+113,0832,Personal Computer Operator II
+114,0728,Assistant Managing Editor Council Journal
+115,0727,Managing Editor Council Journal
+116,0726,Deputy Managing Editor Council Journal
+117,0696,Reprographics Technician - in Charge
+118,0653,Web Author
+119,0432,Supervising Clerk
+120,0306,Assistant Director
+121,0303,Administrative Assistant III
+122,9927,City Comptroller
+123,9812,First Deputy Director
+124,0320,Assistant to the Commissioner
+125,0188,Director of Internal Audit
+126,1626,Chief Compliance Officer
+127,9651,Deputy Comptroller
+128,0635,Senior Programmer/Analyst
+129,0603,Assistant Director of Information Systems
+130,0193,Auditor III
+131,0111,Lead Accountant
+132,1576,Chief Voucher Expediter
+133,1482,Contract Review Specialist II
+134,0638,Programmer/Analyst
+135,0345,Contracts Coordinator
+136,1331,Labor Relations Supervisor
+137,1301,Administrative Services Officer I
+138,9653,Managing Deputy Comptroller
+139,0187,Director of Accounting
+140,0120,Supervisor of Accounting
+141,0110,Accountant
+142,0105,Assistant Comptroller
+143,0109,Accounting Technician
+144,0101,Accountant I
+145,0156,Supervisor of Voucher Auditing
+146,0139,Senior Fiscal Policy Analyst
+147,0392,Assistant Benefits Manager
+148,0366,Staff Assistant - Excluded
+149,0302,Administrative Assistant II
+150,0233,Benefits Claims Supervisor
+151,0223,Manager of Audit and Finance
+152,0135,Senior Financial Analyst
+153,0134,Financial Analyst
+154,9672,Risk Manager
+155,1711,Senior Risk Analyst
+156,1709,Risk Analyst
+157,9727,Director of Workers Compensation
+158,1203,Worker's Compensation Claims Coordinator
+159,1501,Central Voucher Coordinator
+160,0689,Senior Help Desk Technician
+161,0659,Principal Data Base Analyst
+162,0644,Chief Programmer/Analyst
+163,0629,Principal Programmer/Analyst
+164,0192,Auditor II
+165,0122,Payroll Administrator - Excluded
+166,0114,Assistant Payroll Administrator
+167,9814,Managing Deputy Director
+168,0362,Assistant to the Director
+169,0248,Supervisor of Payment Center
+170,0235,Payment Services Representative
+171,0236,Payment Reconciler
+172,0103,Accountant III
+173,0191,Auditor I
+174,0149,Supervisor of Auditing
+175,0194,Auditor IV
+176,0150,Manager of Auditing
+177,7482,Parking Enforcement Aide
+178,7481,Field Supervisor I - Parking Enforcement
+179,7118,Dispatch Clerk - in Charge
+180,7102,Dispatch Clerk
+181,711B,Booter - Parking
+182,7113,Supervising Booter - Parking
+183,7112,Booter - Parking
+184,0012,Contract Wage Increment - Prevailing Rate
+185,4268,Director of Security
+186,1256,Supervising Investigator
+187,1217,Parking Investigator
+188,0431,Clerk IV
+189,0381,Director of Administration II
+190,0334,Manager of Parking
+191,9536,Laborer - Parking Operations
+192,0330,Parking Revenue Security Supervisor
+193,0712,Senior Public Information Officer
+194,0430,Clerk III
+195,0420,Collections Representative
+196,0307,Administrative Assistant II - Excluded
+197,0167,Manager of Revenue Collections
+198,0145,Manager of Compliance Analysis
+199,7404,Traffic Enforcement Technician
+200,7403,Supervising Traffic Enforcement Technician
+201,7401,Customer Services Supervisor
+202,3092,Program Director
+203,0275,Assistant Manager of Collections
+204,9928,City Treasurer
+205,0340,Assistant to the City Treasurer
+206,9676,Assistant City Treasurer
+207,9673,Deputy City Treasurer
+208,9930,Director of Administrative Hearings
+209,9818,Deputy Director of Administrative Adjudication
+210,0419,Customer Account Representative
+211,0380,Director of Administration I
+212,9819,Manager of Administrative Adjudication
+213,1660,Senior Administrative Law Officer
+214,9844,Senior Hearing Officer
+215,9931,Corporation Counsel
+216,1673,Assistant Corporation Counsel III
+217,1657,First Assistant Corporation Counsel
+218,1650,Deputy Corporation Counsel
+219,0365,Personal Assistant
+220,1695,Administrative Deputy
+221,1669,Law Library Technical Assistant
+222,1661,Director of Attorney Recruitment and Professional Development - Law
+223,1342,Senior Personnel Assistant
+224,1158,Chief Methods Analyst
+225,0654,Programmer/Analyst-Excluded
+226,0361,Director of Personnel Policies and Utilization
+227,0125,Finance Officer - Excluded
+228,0118,Director of Finance
+229,1689,Administrative Assistant to Deputy Corporation Counsel
+230,1674,Assistant Corporation Counsel Senior
+231,1652,Chief Assistant Corporation Counsel
+232,1641,Assistant Corporation Counsel Supervisor
+233,1617,Paralegal II
+234,1643,Assistant Corporation Counsel I
+235,1631,Law Clerk
+236,1619,Supervising Paralegal
+237,1607,Superv Process Server
+238,1601,Process Server
+239,0875,Senior Legal Personal Computer Operator
+240,0863,Legal Secretary
+241,1653,Claims Manager
+242,1648,Claims Investigator
+243,1696,Director of Labor Relations
+244,1672,Assistant Corporation Counsel II
+245,1623,Paralegal II - Labor
+246,1386,Senior Labor Relations Specialist
+247,1332,Assistant Director of Labor Relations
+248,0866,Executive Legal Secretary
+249,0789,Public Relations Rep III - Excluded
+250,1656,City Prosecutor
+251,0831,Personal Computer Operator III
+252,1682,Senior Legal Investigator
+253,9933,Commissioner of Human Resources
+254,9660,First Deputy Commissioner
+255,0415,Inquiry Aide III
+256,0394,Administrative Manager
+257,9679,Deputy Commissioner
+258,3535,Clinical Therapist III - Excluded
+259,1385,Disability Officer
+260,1384,Equal Employment Opportunity Officer
+261,1364,Training and Development Analyst
+262,1354,EEO Investigator
+263,1308,HR Generalist - DHR
+264,1309,HR Records Administration Manager
+265,1306,Hr Record Specialist
+266,0451,Clerk III - Excluded
+267,1379,Testing/Assessment Specialist
+268,1371,Testing Manager
+269,1370,Testing Administrator
+270,1365,Classification and Compensation Analyst
+271,1311,Associate Classification and Compensation Analyst
+272,1380,Recruiter
+273,9935,Chief Procurement Officer
+274,9815,Managing Deputy Procurement Officer
+275,9726,First Deputy Procurement Officer
+276,1646,Attorney
+277,1554,Assistant Procurement Officer
+278,1304,Supervisor of Personnel Services
+279,0729,Information Coordinator
+280,0703,Public Relations Representative III
+281,0321,Assistant to the Commissioner
+282,9532,Stores Laborer
+283,1860,Foreman of Pipe Yards
+284,1556,Deputy Procurement Officer
+285,0694,Reprographics Technician III
+286,1557,Deputy Procurement Officer - Contract Compliance Officer
+287,1508,Senior Procurement Specialist
+288,1507,Procurement Specialist
+289,1506,Manager of Certification and Compliance
+290,1505,Senior Certification / Compliance Officer
+291,1504,Certification / Compliance Officer
+292,1183,Field Analyst
+293,9938,Commissioner of Assets  Information  and Services
+294,0124,Finance Officer
+295,1572,Chief Contract Expediter
+296,1191,Contracts Administrator
+297,0450,Clerk IV (Timekeeper)
+298,1359,Training Officer
+299,1318,Training Director
+300,5737,Creative Director
+301,0673,Senior Data Base Analyst
+302,0379,Director of Administration
+303,0318,Assistant to the Commissioner
+304,4548,Manager of Buildings Services
+305,4223,Custodial Worker
+306,7747,Chief Operating Engineer
+307,7745,Assistant Chief Operating Engineer
+308,7743,Operating Engineer - Group A
+309,4546,Director of Facilities Management
+310,6335,Supervising Watchman
+311,6327,Watchman
+312,6302,Supervising Watchman - Agreement
+313,4219,Coordinator of Security and Fire Safety
+314,6053,Mechanical Engineer III
+315,5630,Coordinating Engineer I
+316,5410,Coordinating Architect
+317,5402,Architect II
+318,9534,Laborer
+319,8244,Foreman of Laborers
+320,7183,Motor Truck Driver
+321,6676,Foreman of Machinists
+322,6674,Machinist
+323,5043,Electronics Technician
+324,5042,General Foreman of Electrical Mechanics
+325,5040,Foreman of Electrical Mechanics
+326,5035,Electrical Mechanic
+327,4856,Foreman of Sheet Metal Workers
+328,4855,Sheet Metal Worker
+329,4805,Architectural Iron Worker
+330,4776,Foreman of Steamfitters
+331,4774,Steamfitter
+332,4765,Sprinkler Fitter
+333,4756,Foreman of Plumbers
+334,4754,Plumber
+335,4636,Foreman of Painters
+336,4634,Painter
+337,4526,General Foreman of General Trades
+338,4505,Asbestos Worker/ Pipe Insulator
+339,4401,Bricklayer
+340,4335,Glazier
+341,4303,Foreman of Carpenters
+342,4301,Carpenter
+343,4285,Window Washer
+344,3006,Unit Assistant
+345,0437,Supervising Clerk - Excluded
+346,6425,Digital Asset Coordinator
+347,6424,Principal Photographer
+348,6421,Coordinator of Printing Services - Graphics
+349,0919,Supervising Photographic Technician
+350,6765,Printer
+351,6423,Prepress Technician
+352,6418,Lead Pressman
+353,6417,Offset Press Operator
+354,6414,Manager of Graphics and Reproduction Center
+355,6410,Reprographics Coordinator
+356,6406,Reprographics Technician III
+357,6405,Reprographics Technician II
+358,6409,Graphic Artist III
+359,6122,Safety Specialist
+360,3406,Environmental Health and Safety Coordinator
+361,3403,Health and Safety Analyst
+362,2085,Director of Environmental Health and Safety Compliance
+363,2073,Environmental Engineer III
+364,0289,Safety Administrator
+365,5636,Assistant Project Director
+366,1663,Leasing Agent
+367,6085,Senior Automotive Equipment Analyst
+368,6080,Manager - Fleet Services and Automotive Procurement
+369,1240,Vehicle Registration Coordinator
+370,7181,Manager of Fleet Services
+371,7163,Fuel System Service Technician
+372,7161,Fleet Services Supervisor
+373,7160,Fleet Services Assistant
+374,7173,Accident Adjuster
+375,7172,Manager of Vehicle Adjustments
+376,7105,Warranty Clerk
+377,7047,Manager - Vehicle Maintenance
+378,7638,Hoisting Engineer - Mechanic
+379,7634,Foreman of Hoisting Engineer - Mechanics
+380,7186,Motor Truck Driver - Tire Repair
+381,7185,Foreman of Motor Truck Drivers
+382,7141,Chief Dispatcher - Excluded
+383,7136,Servicewriter
+384,7133,Director of Maintenance Operations
+385,7124,Equipment Dispatcher
+386,6679,Foreman of Machinists - Automotive
+387,6673,Machinist - Automotive
+388,6607,Foreman of Blacksmiths
+389,6605,Blacksmith
+390,5045,Foreman of Electrical Mechanics (Auto)
+391,5034,Electrical Mechanic - Automotive
+392,4605,Automotive Painter
+393,7127,Equipment Dispatcher - in Charge
+394,6575,General Shop Foreman
+395,7139,Service Writer - Police Motor Maintenance
+396,9776,Managing Deputy Chief Information Officer
+397,9775,First Deputy Chief Information Officer
+398,9777,IT Director - DoIT
+399,0649,Project Manager - AIS
+400,0625,Chief Programmer/Analyst
+401,0646,Enterprise Support Manager
+402,0633,Principal Telecommunications Specialist
+403,0627,Senior Telecommunications Specialist
+404,0610,Manager of Telecommunications
+405,0608,Telephone Systems Administrator
+406,0677,IT - Security Specialist
+407,0614,Information Security Manager
+408,0658,Chief Data Base Analyst
+409,0648,Web Developer
+410,9614,Deputy Chief Administrative Officer
+411,9352,Assistant Executive Director - Board of Elections
+412,9351,Administrative Assistant to the Commissioners
+413,9346,Contracts Coordinator - Board of Elections
+414,9328,Senior Clerk - Board of Elections
+415,9327,Principal Clerk - Board of Elections
+416,9308,Clerk - Board of Elections
+417,9354,Software Development Coordinator - Board of Elections
+418,9353,Division Manager - Board of Elections
+419,9350,Assistant Manager - Board of Elections
+420,9310,Computer Applications Analyst II - Board of Elections
+421,9309,Computer Applications Analyst I - Board of Elections
+422,9345,Supervisor of Mailroom Operations
+423,9344,Polling Place Investigator II
+424,9343,Polling Place Investigator I
+425,9335,Supervisor of Polling - Board of Elections
+426,9330,Senior Supervisor - Board of Elections
+427,9342,Election Equipment and Supply Specialist III
+428,9341,Election Equipment and Supply Specialist II
+429,9340,Election Equipment and Supply Specialist I
+430,9339,Warehouse Supervisor - Board of Elections
+431,9337,Supervisor of Registration - Board of Elections
+432,9306,Assistant Supervisor of Redistricting - Board of Elections
+433,9941,Commissioner of Health
+434,0743,Supervisor of Information Services
+435,3466,Public Health Administrator II
+436,3414,Epidemiologist II
+437,1770,Program Coordinator
+438,3408,Epidemiologist IV
+439,3407,Epidemiologist III
+440,3402,Director of Epidemiology
+441,0383,Director of Administrative Services
+442,2989,Grants Research Specialist
+443,2926,Supervisor of Grants Administration
+444,2905,Coordinator of Grants Management
+445,1441,Coordinating Planner
+446,1431,Senior Policy Analyst
+447,1532,Contract Compliance Coordinator
+448,0684,Data Base Analyst
+449,0637,Senior Programmer/Analyst - Per Agreement
+450,3467,Public Health Administrator III
+451,3348,Medical Director
+452,3057,Director of Program Operations
+453,3469,Director of Public Health Operations
+454,3752,Public Health Nurse II
+455,0011,Contract Wage Increment - Salary
+456,3897,Community Outreach Coordinator
+457,3764,Psychiatric Nurse Practitioner
+458,3563,Director Mental Health Center
+459,3548,Psychologist
+460,338D,Psychiatrist
+461,2150,Building/Construction Inspector
+462,2083,Environmental Investigator
+463,2082,Director of Environmental Inspections
+464,2081,Environmental Engineer II
+465,2080,Supervising Environmental Inspector
+466,2077,Senior Environmental Inspector
+467,2074,Environmental Engineer I
+468,2072,Supervising Environmental Engineer
+469,3434,Communicable Disease Control Investigator II
+470,2391,Health Code Enforcement Inspection Analyst
+471,2383,Supervising Sanitarian
+472,2381,Sanitarian II
+473,2377,Chief Sanitarian
+474,2375,Manager of Food Protection Services
+475,0665,Senior Data Entry Operator
+476,3753,Public Health Nurse III
+477,3213,Dental Assistant
+478,3210,Dental Hygienist
+479,3203,Dentist
+480,3763,Nurse Practitioner
+481,3754,Public Health Nurse IV
+482,3139,Certified Medical Assistant
+483,3130,Laboratory Technician
+484,3127,Manager of Laboratory Services
+485,3751,Public Health Nurse I
+486,9945,Chairperson - Commission on Human Relations
+487,3099,Hate Crime Victim Advocate
+488,3085,Human Relations Investigator II
+489,3015,Director of Human Rights Compliance
+490,9948,Commissioner of Mayor's Office for People with Disabilities
+491,0368,American Sign Language Interpreter
+492,3004,Personal Care Attendant II
+493,5404,Architect IV
+494,9950,Commissioner of Family and Support Services
+495,2976,Executive Assistant
+496,0304,Assistant to Commissioner
+497,0628,Programmer/Analyst - Per Agreement
+498,2916,Supervising Program Auditor
+499,1140,Chief Operations Analyst
+500,0322,Special Assistant
+501,3955,Youth Services Coordinator
+502,3018,Manager of Family Support Programs
+503,3011,Supervisor of Family Support Programs
+504,0347,Sponsorship Coordinator
+505,3825,Community Intervention Specialist
+506,3906,Assistant Director of Children Services
+507,2917,Program Auditor III
+508,1484,Director of Monitoring Services
+509,9951,Executive Director - Office of Public Safety Administration
+510,0708,FOIA Officer
+511,0123,Fiscal Administrator
+512,0117,Assistant Director of Finance
+513,9019,Assistant Manager of Police Payrolls
+514,9012,Manager of Police Payrolls
+515,0438,Timekeeper - CPD
+516,0175,Field Payroll Auditor
+517,0121,Payroll Administrator
+518,7110,Equipment Services Coordinator
+519,4238,Property Custodian
+520,1854,Coordinator - Inventory Management and Property Control
+521,9759,Director of Human Resources
+522,8759,Assistant Director of Personnel Services
+523,1341,Personnel Assistant
+524,1329,Manager of Police Personnel
+525,1255,Investigator
+526,9115,Medical Services Coordinator
+527,3603,Occupational Health Nurse
+528,3360,Chief Medical Director-Public Safety
+529,0341,Medical Administrator
+530,9954,Commissioner of Planning and Development
+531,2944,Employability Review Specialist III
+532,1402,City Planner II
+533,1405,City Planner V
+534,1984,Coordinator of Economic Development I - Planning and Development
+535,9654,Zoning Administrator
+536,5432,Chief Landscape Plan Examiner
+537,5431,Senior Landscape Plan Examiner
+538,1299,Chief Zoning Plan Examiner
+539,1298,Assistant Zoning Administrator
+540,1294,Supervising Zoning Plan Examiner
+541,1293,Senior Zoning Plan Examiner
+542,1291,Zoning Investigator
+543,1290,Manager - Zoning Boards of Appeals
+544,1404,City Planner IV
+545,1602,Senior Land Disposition Officer
+546,9955,Executive Director - Police Board
+547,9957,Superintendent of Police
+548,9011,Superintendent's Chief of Staff
+549,9758,Assistant General Counsel
+550,9756,General Counsel
+551,9171,Sergeant
+552,9016,Police Legal Officer II
+553,9015,Police Legal Officer I
+554,9716,Assistant Director of News Affairs
+555,9715,Director of News Affairs
+556,9161,Police Officer
+557,5743,Graphic Artist III
+558,0918,Photographic Specialist
+559,0711,Public Information Officer
+560,9752,Commander
+561,9785,Chief
+562,9174,Police Agent
+563,9173,Lieutenant
+564,9165,Police Officer - Assigned as Detective
+565,9102,Director of CAPS
+566,9101,Community Organizer - CAPS
+567,3520,Domestic Violence Advocate
+568,3097,Language Access Coordinator
+569,3076,Coordinator of Community Services
+570,1927,Area Coordinator - CAPS
+571,1910,Information Service Coordinator
+572,9175,Captain
+573,9781,First Deputy Superintendent
+574,9796,Deputy Chief
+575,9117,Criminal Intelligence Analyst
+576,2921,Senior Research Analyst
+577,9160,Police Officer - Assigned as Security Specialist
+578,9164,Police Officer - Assigned as Training Officer
+579,9155,Police Officer - Per Arbitration Award
+580,9122,Detention Aide
+581,9116,Police Administrative Aide
+582,9106,Police Cadet
+583,0833,Personal Computer Operator I
+584,9120,Digital Intelligence Analyst
+585,9107,Crimes Detection Specialist
+586,9003,Criminal History Analyst
+587,9151,Police Officer - Assigned as Traffic Specialist
+588,9246,Criminalist III
+589,9234,Forensic Firearm / Toolmark Examiner
+590,9213,Firearms Identification Technician I
+591,9206,Police Officer - Assigned as Evidence Technician
+592,9201,Police Forensic Investigator I
+593,9166,Police Officer - Assigned as Supervising Latent Print Examiner
+594,9163,Police Officer - Assigned as Latent Print Examiner
+595,9108,Crimes Surveillance Specialist
+596,4239,Supervising Property Custodian
+597,9153,Police Officer - Assigned as Explosives Detection Canine Handler
+598,9168,Police Officer - Assigned as Marine Officer
+599,9154,Police Officer Assigned as Helicopter Pilot
+600,9169,Police Officer - Assigned as Mounted Patrol Officer
+601,9152,Police Officer - Assigned as Canine Handler
+602,9158,Explosives Technician I
+603,9126,Police Technician
+604,4096,Program Aide
+605,9782,Deputy Superintendent
+606,9228,Fingerprint Technician IV
+607,9225,Fingerprint Technician III
+608,9224,Fingerprint Technician II
+609,9221,Director of Police Records
+610,9197,Warrant and Extradition Aide
+611,2903,Research and Policy Analyst - CPD
+612,1815,Principal Storekeeper
+613,1730,Program Analyst
+614,9196,Subpoena Officer
+615,9008,Assistant Supervisor of Police Records
+616,0841,Manager of Data Entry Operators
+617,9170,Police Officer - Assigned as Armorer
+618,9024,Project Strategy Manager - CPD
+619,9704,Director of Professional Counseling Services
+620,9156,Police Officer - Assigned as Supervising Substance Abuse Counselor
+621,3534,Clinical Therapist III
+622,9018,Risk Manager-CPD
+623,8780,Director of Research and Planning
+624,9958,Executive Director - Emergency Management and Communications
+625,8602,Police Communications Operator II
+626,8617,Director of 3-1-1 City Services
+627,8616,Communications Operators II - 3-1-1
+628,8615,Communications Operator I - 3-1-1
+629,8614,Supervisor of 3-1-1 Operations
+630,8612,Manager of 3-1-1 Operations
+631,9105,Supervising Traffic Control Aide
+632,9104,Traffic Control Aide - Hourly
+633,6291,General Superintendent of Special Traffic Services
+634,6290,Superintendent of Special Traffic Service
+635,6144,Engineering Technician V
+636,9959,Fire Commissioner
+637,8763,District Chief
+638,8721,Coordinator of Special Events Liaison
+639,9703,First Deputy Fire Commissioner
+640,1254,Investigator Specialist
+641,8749,Paramedic-In-Charge
+642,8728,Firefighter - Paramedic
+643,8707,Paramedic-In-Charge - Assigned as Training Instructor
+644,8703,Fire Paramedic - Assigned as Instructor
+645,0393,Director of EMS Compliance
+646,8801,Firefighter - EMT
+647,8750,Paramedic
+648,8740,Coordinator of Community Services - CFD
+649,8714,Coordinator of Fire Awareness
+650,8535,Coordinator of Human Relations
+651,9702,Deputy Fire Commissioner
+652,8755,Assistant Deputy Fire Commissioner
+653,8820,Firefighter - Per Arbitrators Award - EMT
+654,8819,Firefighter - Per Arbitrators Award - Paramedic
+655,8818,Captain - Paramedic
+656,8817,Captain - EMT
+657,8813,Lieutenant - EMT - Assigned as Training Instructor
+658,8812,Lieutenant - Paramedic
+659,8811,Lieutenant - EMT
+660,8808,Fire Engineer - Paramedic
+661,8807,Fire Engineer - EMT
+662,8802,Firefighter - EMT - Recruit
+663,8771,Firefighter - Per Arbitrators Award
+664,8764,Deputy District Chief
+665,8739,Battalion Chief
+666,8737,Captain
+667,8735,Lieutenant
+668,8733,Fire Engineer
+669,8731,Firefighter
+670,8702,Battalion Chief - Paramedic
+671,8701,Battalion Chief - EMT
+672,8751,Paramedic - Per Judgement
+673,8748,Paramedic Field Chief
+674,8745,Ambulance Commander
+675,8734,Assistant Deputy Chief Paramedic
+676,8726,Commander - EMT
+677,8659,Chief Helicopter Pilot - EMT
+678,7355,Marine Pilot - Fire Boat
+679,8795,Supervising Fire Marshal - EMT
+680,8794,Fire Marshal - EMT
+681,8793,Fire Marshal
+682,8790,Commanding Fire Marshal
+683,8787,Assistant Commanding Fire Marshal - EMT
+684,1388,Labor Relations Specialist
+685,8732,Commander - Logistics and Operations
+686,6331,Senior Storekeeper
+687,8784,Coordinator of Air Mask Services
+688,6733,Supervising Air Mask Technician
+689,6732,Senior Air Mask Technician
+690,8879,Chief Fire Prevention Engineer
+691,8877,Fire Prevention Engineer
+692,8875,Associate Fire Prevention Engineer
+693,9956,Chief Administrator
+694,9711,Chief of Investigative Operations - COPA
+695,9680,Deputy Chief Administrator
+696,9661,First Deputy Chief Administrator
+697,2056,Research Associate
+698,1728,Senior Information Analyst
+699,1324,Director of Training and Professional Development - COPA
+700,0681,Technical Support Administrator - COPA
+701,0664,Data Entry Operator
+702,1257,Director of Investigations-COPA
+703,1251,Evidence Specialist - COPA
+704,1250,Digital Forensic Analyst - COPA
+705,1249,Supervising Investigator - COPA
+706,1248,Major Case Specialist - COPA
+707,1247,Investigator - COPA
+708,1171,Quality Management Analyst - COPA
+709,0422,Intake Aide
+710,1666,Chief Investigative Law Officer
+711,1664,Senior Litigation Counsel - COPA
+712,3575,Case Liaison - COPA
+713,9967,Commissioner of Buildings
+714,2131,Coordinator of Special Projects - Buildings
+715,0216,Manager of Customer Services
+716,0662,Senior Computer Console Operator
+717,5620,Structural Engineer
+718,5425,Project Manager - Buildings
+719,5151,Electrical Inspector
+720,2184,Ventilation and Furnace Inspector
+721,2135,Cooling Plant Inspector
+722,2152,Chief Building/Construction Inspector
+723,2151,Supervising Building/Construction Inspector
+724,2120,Manager of Regulatory Review
+725,5156,Chief Electrical Inspector
+726,5153,Supervisor of Electrical Inspectors
+727,2138,Assistant Chief Elevator Inspector
+728,2137,Elevator Inspector
+729,2185,Supervising Ventilation and Furnace Inspector
+730,2136,Supervising Cooling Plant Inspector
+731,2105,Boiler Inspector
+732,2104,Supervising Boiler Inspector
+733,2101,Chief Boiler Inspector
+734,2164,Iron Inspector
+735,7610,Construction Equipment Inspector
+736,9970,Commissioner of Business Affairs and Consumer Protection
+737,1651,Office Administrator
+738,0604,Senior Systems Programmer
+739,1434,Director of Public Information
+740,0948,Studio Equipment Engineer
+741,0947,Studio Equipment Manager
+742,0943,Station Manager
+743,0938,Senior Videographer
+744,0937,Supervising Videographer
+745,0926,Television Production Specialist
+746,0352,Business Consultant Supervisor
+747,0351,Senior Business Consultant
+748,0350,Business Consultant
+749,1981,Coordinator of Economic Development
+750,1218,Supervisor of Compensation
+751,1211,Supervisor of Business Compliance Investigations
+752,1276,Supervisor of Public Vehicle Inspectors
+753,1275,Senior Public Vehicle Inspector
+754,1274,Public Vehicle Inspector
+755,9658,Local Liquor Control Commissioner
+756,1212,Manager of Business Compliance Investigations
+757,1210,Business Compliance Investigator
+758,9689,Director of Labor Standards
+759,1208,Labor Standards Investigator
+760,9973,Executive Director of Animal Care and Control
+761,1315,Human Resources Business Partner
+762,9633,Member
+763,9621,Chairman
+764,3496,Animal Control Officer
+765,3495,Supervisor of Animal Control Officers
+766,3493,Operations Manager of Animal Control
+767,3499,Animal Care Aide I
+768,3498,Animal Care Clerk
+769,3497,Animal Care Aide II
+770,3492,Veterinarian Assistant
+771,3489,Supervising Veterinary Technician
+772,3488,Supervising Animal Care Clerk
+773,3487,Supervisor of Animal Care Aides
+774,3485,Animal Shelter Manager
+775,3484,Animal Placement Coordinator
+776,3483,Animal Care Clerk - Hourly
+777,3481,Certified Veterinary Technician
+778,3310,Veterinarian
+779,3309,Veterinarian - Hourly
+780,3491,Animal Control Inspector
+781,9978,Executive Director - Board of Ethics
+782,9718,Investigator - Ethics
+783,1659,Legal Counsel - Board of Ethics
+784,9981,Commissioner of Streets and Sanitation
+785,8185,Assistant General Superintendent
+786,8176,Assistant Division Superintendent
+787,7123,Equipment Training Specialist - MTD
+788,8105,Field Sanitation Investigator
+789,1142,Senior Operations Analyst
+790,7184,Pool Motor Truck Driver
+791,7152,Refuse Collection Coordinator
+792,6329,General Laborer - Streets and Sanitation
+793,6324,Sanitation Laborer
+794,718D,Pool Motor Truck Driver
+795,0441,Sanitation Clerk
+796,7140,Non-CDL Driver
+797,8184,General Superintendent
+798,7635,Foreman of Hoisting Engineers
+799,7633,Hoisting Engineer
+800,8164,District Supervisor - Graffiti Removal Services
+801,8173,Ward Superintendent
+802,0809,Executive Secretary I
+803,7946,Senior City Forester
+804,7928,Dispatcher - Arborist
+805,7916,Forestry Supervisor
+806,3063,Training Agent I - Per Agreement
+807,7975,Tree Trimmer
+808,9984,Commissioner of Transportation
+809,6145,Engineering Technician VI
+810,5613,Civil Engineer III
+811,5615,Civil Engineer V
+812,5614,Civil Engineer IV
+813,1814,Coordinator of Warehouse Operations
+814,0165,Supervising Timekeeper - Laborer
+815,6255,Traffic Engineer V
+816,6254,Traffic Engineer IV
+817,0602,Principal Systems Programmer
+818,1440,Coordinating Planner II
+819,0810,Executive Secretary II
+820,1606,Manager of Maps and Plats
+821,0613,GIS Manager
+822,6143,Engineering Technician IV
+823,5632,Coordinating Engineer II
+824,6613,Boiler Maker Welder
+825,5814,Electrical Engineer IV
+826,5083,Foreman of Lineman
+827,5049,Superintendent of Electrical Operations
+828,5081,Lineman
+829,8259,Assistant Superintendent of Pavement Repairs
+830,7238,Coordinator of Bridge Operations
+831,7235,Supervising Bridge Operator
+832,7230,Bridge Operator
+833,1718,Chief Forensic Data Analyst
+834,1215,Chief Assistant Inspector General
+835,1120,Managing Deputy Budget Director
+836,0144,Fiscal Policy Analyst
+837,0325,Supervisor of Customer Accounts
+838,1611,Case Analyst - Law
+839,2231,Plumbing Inspector
+840,2235,Assistant Chief Plumbing Inspector
+841,9988,Commissioner of Water Management
+842,5535,Water Research Specialist
+843,1694,Director of Legal Services
+844,0155,Manager of Audit and Internal Controls
+845,632H,Watchman
+846,6328,Watchman
+847,6304,Safety Specialist - Water Management
+848,4218,Coordinator of Security Services
+849,1588,Procurement Control Officer
+850,1303,Administrative Services Officer I - Excluded
+851,0104,Accountant IV
+852,6054,Mechanical Engineer IV
+853,5693,Chief Water Engineer
+854,5689,Water Conservation Engineer
+855,5611,Managing Engineer - Water Department
+856,2237,Chief Plumbing Inspector
+857,2233,Plumbing Inspector - in Charge
+858,5612,Civil Engineer II
+859,5648,Water Quality Manager
+860,5647,Director of Water Quality Surveillance
+861,5644,Sanitary Engineer IV
+862,5643,Sanitary Engineer III
+863,5642,Sanitary Engineer II
+864,5533,Water Chemist III
+865,5532,Water Chemist II
+866,5529,Chief Water Chemist
+867,3179,Microbiologist IV
+868,3178,Microbiologist III
+869,3177,Microbiologist II
+870,3154,Director of Water Purification Laboratories
+871,3108,Chief Microbiologist
+872,2317,Water Quality Inspector
+873,8305,Coordinator of Tugboat Operations
+874,7775,Stationary Fireman
+875,7741,Operating Engineer - Group C
+876,7398,Deck Hand
+877,7357,Marine Pilot
+878,7353,Marine Engineer
+879,6088,Engineer of Electric Pumping Stations
+880,6087,Engineer of Water Pumping
+881,6086,Assistant Engineer of Water Pumping
+882,6055,Mechanical Engineer V
+883,6052,Mechanical Engineer II
+884,463D,Painter
+885,9593,Station Laborer
+886,9592,Foreman of Station Laborers
+887,777E,Stationary Fireman
+888,5566,Engineer of Water Purification
+889,5534,Water Chemist IV
+890,5528,Filtration Engineer II
+891,5520,Filtration Engineer V
+892,5519,Filtration Engineer IV
+893,5518,Filtration Engineer III
+894,4304,General Foreman of Carpenters
+895,4225,Foreman of Custodial Workers
+896,1817,Head Storekeeper
+897,5985,General Superintendent of Water Management
+898,0417,District Clerk
+899,0159,Supervisor of Cost Control
+900,9408,Laborer as Estimator
+901,8246,Foreman of Construction Laborers
+902,7125,Assistant Chief Dispatcher
+903,7101,Emergency Crew Dispatcher
+904,941A,Construction Laborer
+905,9411,Construction Laborer
+906,9410,Laborer - Apprentice
+907,8394,Foreman of Water Pipe Construction
+908,8373,District Superintendent of Water Distribution
+909,8352,Assistant District Superintendent
+910,8301,Caulker
+911,763C,Hoisting Engineer
+912,7636,General Foreman of Hoisting Engineers
+913,718E,Foreman of Motor Truck Drivers
+914,475D,Plumber
+915,4566,General Foreman of Construction Laborers
+916,4435,Cement Finisher
+917,4405,Foreman of Bricklayers
+918,4403,Sewer Bricklayer
+919,6681,Machinist - Apprentice
+920,6556,Superintendent of Water Meters
+921,1063,Supervisor of Water Rate Takers
+922,1062,Water Meter Assessor
+923,1061,Water Rate Taker
+924,8325,Pipe Locating Machine Operator
+925,718C,Motor Truck Driver
+926,6672,Water Meter Machinist
+927,6555,Assistant Superintendent of Water Meters
+928,0442,Director of License Issuance
+929,0433,Supervisor of License Issuance
+930,0212,Director of Collection Processing
+931,1232,Licensing Enforcement Aide - City Clerk
+932,0691,Reprographics Technician IV
+933,8190,Supervisor of Lot Cleaning Services
+934,6295,Traffic Maintenance Supervisor
+935,6287,Supervisor of Field Vehicle Investigators
+936,6298,Chief Auto Pound Supervisor
+937,6292,Auto Pound Supervisor
+938,6333,Property Custodian - Auto Pound
+939,5813,Electrical Engineer III
+940,5907,Assistant Chief Highway Engineer
+941,5905,Assistant Chief Engineer
+942,6139,Field Supervisor
+943,6138,Field Service Specialist III
+944,6137,Field Service Specialist II
+945,8232,Coordinator of Street Permits
+946,6142,Engineering Technician III
+947,5616,Supervising Engineer
+948,0839,Supervisor of Data Entry Operators
+949,953I,Concrete Laborer
+950,9539,Concrete Laborer
+951,946D,Asphalt Laborer
+952,9464,Asphalt Laborer
+953,8249,Foreman of Laborer - Concrete
+954,503E,Electrical Mechanic
+955,4834,Bridge and Structural Iron Worker
+956,443E,Cement Finisher
+957,4437,Foreman of Cement Finishers
+958,8256,Superintendent of Pavement Repairs
+959,826C,Sign Hanger
+960,8267,Foreman of Sign Shop
+961,8265,Foreman of Sign Hangers
+962,8263,Sign Hanger
+963,6135,Field Service Director
+964,465D,Sign Painter Helper
+965,4656,Sign Painter
+966,7120,Load Dispatcher
+967,5088,Foreman of Street Light Repairmen
+968,5086,Street Light Repair Worker
+969,5085,General Foreman of Linemen
+970,5061,Lamp Maintenance Worker
+971,5089,Foreman of Traffic Signal Repairmen
+972,5087,Traffic Signal Repairman
+973,9528,Laborer - Bureau of Electricity
+974,8323,Dispatcher - Concrete
+975,8258,District Concrete Supervisor
+976,8255,General Foreman of Laborers Curb and Gutter
+977,4434,Cement Finisher Apprentice
+978,0427,District Clerk - Asphalt
+979,6680,General Foreman of Machinists
+980,4838,General Foreman of Bridge and Structural Ironworkers
+981,440A,Bricklayer
+982,8322,Dispatcher - Asphalt
+983,8257,District Asphalt Supervisor
+984,8248,Asphalt Foreman
+985,8243,General Foreman of Laborers
+986,953D,Laborer
+987,4836,Foreman of Bridge and Structural Ironworkers
+988,4804,Foreman of Architectural Iron Workers
+989,0242,Portfolio Manager
+990,5675,Assistant Chief Engineer of Sewers
+991,5676,Chief Engineer of Sewers
+992,5848,Superintendent of Construction and Maintenance
+993,9584,Construction Laborer Sub-Foreman
+994,8345,Foreman of Sewer Cleaning
+995,440C,Sewer Bricklayer
+996,4406,General Foreman of Bricklayers
+997,4404,Foreman of Sewer Bricklayers
+998,8316,Chief Mason Inspector
+999,8315,Mason Inspector
+1000,2147,Supervising House Drain Inspector
+1001,2143,House Drain Inspector
+1002,0690,Help Desk Technician
+1003,0663,Principal Computer Console Operator
+1004,0642,Help Desk Supervisor - Excluded
+1005,0626,Telecommunications Specialist
+1006,9991,Commissioner of Chicago Public Library
+1007,5753,Graphic Arts and Reproduction Supervisor
+1008,5742,Graphic Artist II
+1009,1813,Senior Storekeeper
+1010,1338,Director of Human Resources
+1011,1320,Leave of Absence Administrator
+1012,0901,Audio-Visual Specialist
+1013,0719,Director of Marketing
+1014,0702,Public Relations Representative II
+1015,0701,Public Relations Representative I
+1016,0676,Web Developer/Administrator - CPL
+1017,0674,Director of Library Technology
+1018,0579,Librarian IV
+1019,0574,Librarian III
+1020,0531,Director of Library Programs and Events
+1021,0527,Library Division Chief
+1022,0518,Central Library Director
+1023,0506,Librarian II
+1024,0501,Librarian I
+1025,0447,Senior Library Clerk
+1026,1325,Director of Library Staff Development
+1027,0950,Digital Media Coordinator
+1028,0840,Assistant Supervisor of Data Entry Operators
+1029,0575,Library Associate - Hourly
+1030,0573,Library Associate
+1031,0539,Library Page
+1032,0517,District Chief
+1033,0514,Regional Library Director
+1034,0507,Senior Archival Specialist
+1035,0503,Librarian I - Hourly
+1036,0502,Archival Specialist
+1037,0449,Head Library Clerk
+1038,0448,Senior Library Clerk - Hourly
+1039,0446,Library Clerk - Hourly
+1040,0445,Library Clerk
+1041,0443,Clerk II - Hourly
+1042,1559,Purchasing Manager
+1043,0576,Electronic Resources Librarian
+1044,0620,GIS Analyst
+1045,0619,Chief Systems Programmer
+1046,5084,Foreman of Linemen - Salaried
+1047,5080,Lineman - Salaried
+1048,5036,Electrical Mechanic - Salaried
+1049,8608,Communication Operations Manager
+1050,8604,Supervising Police Communications Operator
+1051,8601,Police Communications Operator I
+1052,8609,Coordinating Fire Communications
+1053,8607,Supervising Fire Communications Operator
+1054,8606,Fire Communications Operator II
+1055,8605,Fire Communications Operator I
+1056,8621,Manager of Emergency Management Services
+1057,8620,Senior Emergency Management Coordinator
+1058,8625,Emergency Management Communications Officer
+1059,9923,Commissioner of Cultural Affairs and Special Events
+1060,1525,Director of Purchase Contract Administration
+1061,1757,Program Director - Cultural Affairs
+1062,1756,Cultural Affairs Coordinator II
+1063,0715,Curator of Exhibits
+1064,9652,Director of Special Events
+1065,1782,Special Events Coordinator III
+1066,1780,Special Events Coordinator I
+1067,1778,Program Coordinator - Special Events
+1068,0346,Program Director - Special Events
+1069,9112,Traffic Control Aide
+1070,8761,FAA Fire Training Specialist
+1071,8730,Firefighter - Assigned as Training Instructor
+1072,7011,Assistant Airport Manager - Midway
+1073,9535,General Laborer - Aviation
+1074,9533,Laborer
+1075,7020,General Manager of Airport Operations
+1076,7005,Airport Maintenance Foreman
+1077,7025,Assistant Chief Airport Operations Supervisor
+1078,7021,Airport Operations Supervisor II
+1079,7014,Airport Manager - Midway
+1080,7010,Airport Operations Supervisor I
+1081,4211,Aviation Security Officer - Hourly
+1082,4210,Aviation Security Officer
+1083,4209,Aviation Security Sergeant
+1084,4208,Shift Supervisor of Aviation Security
+1085,0375,Manager - Aviation ID Badge Operations
+1086,7004,Manager of Security Communications Center
+1087,7003,Aviation Communications Operator
+1088,7002,Shift Supervisor of Security Communications Center
+1089,941J,Laborer - Apprentice
+1090,7099,Airport Facilities Manager
+1091,9185,Security Specialist
+1092,1658,Assistant Chief Labor Negotiator
+1093,1649,Chief Labor Negotiator
+1094,7177,Equipment Rental Coordinator
+1095,8814,Lieutenant - Paramedic - Assigned as Training Instructor
+1096,8742,Fire Engineer - Assigned as Instructor
+1097,8741,Firefighter - EMT Assigned as Training Instructor
+1098,9985,Commissioner of Aviation
+1099,0721,Director of Communications  - Aviation
+1100,1580,Supervisor of Contracts
+1101,1819,Chief Storekeeper
+1102,1812,Manager of Warehouse Operations
+1103,0228,Principal Revenue Analyst
+1104,1665,Chief Leasing Agent
+1105,7026,Chief Airport Operations Supervisor
+1106,7015,Airport Manager - O'Hare
+1107,7046,Manager - O'Hare Maintenance Control Center
+1108,7027,Construction Coordinator
+1109,953E,General Laborer - Aviation
+1110,4286,Foreman of Window Washers
+1111,7008,Aviation Surveillance Specialist
+1112,7007,Aviation Safety Director
+1113,7006,Aviation Safety Management Systems Director
+1114,6305,Safety Specialist
+1115,8631,Airport Operations Center Coordinator
+1116,8618,Emergency Management Coordinator
+1117,7052,Shift Supervisor of Airport Ground Transportation
+1118,4201,Landside Operation Manager
+1119,7023,General Manager of Grounds and Terminal Facilities
+1120,0624,GIS Data Base Analyst
+1121,0133,Financial Manager - TIF
+1122,5403,Architect III
+1123,1752,Economic Development Coordinator
+1124,0190,Accounting Technician II
+1125,3585,Coordinator of Research and Evaluation
+1126,8175,Division Superintendent
+1127,9495,Weighmaster
+1128,0044,Fringe Benefits
+1129,0945,Senior Studio Equipment Operator
+1130,0944,Coordinator of Studio Operations
+1131,0940,Senior Producer/Writer
+1132,3442,Regional Communicable Disease Investigator
+1133,3401,Manager of Quality Assurance
+1134,3091,Assistant Program Director
+1135,3756,Public Health Nurse III - Excluded
+1136,3465,Public Health Administrator I
+1137,3464,Public Health Ad III - Excluded
+1138,3441,Supervising Disease Control Investigator
+1139,3443,Director of Disease Investigations
+1140,3438,Supervising Disease Control Investigator - Excluded
+1141,3404,Public Health Informatics Specialist
+1142,9999,New Title
+1143,3405,Infection Prevention Specialist
+1144,2902,Chief Research Analyst
+1145,0631,IT Architect (AIS)
+1146,0404,Student Intern
+1147,3074,Disability Specialist I
+1148,3521,Crime Victim Advocate
+1149,1562,Contracts Negotiator
+1150,9119,Senior Intelligence Analyst
+1151,3953,Supervisor of Children Services Programs
+1152,3914,Support Services Coordinator
+1153,3023,Community Living Specialist
+1154,3898,Community Services Representative
+1155,3942,Director of Field Operations
+1156,3934,Social Worker III
+1157,3826,Human Service Specialist II
+1158,3818,Assistant District Manager - Human Services
+1159,3817,District Manager - Human Services
+1160,3812,Director of Human Services
+1161,0429,Clerk II
+1162,3079,Resident Services Coordinator II
+1163,3077,Service Coordinator Aide
+1164,3068,Elder Protective Investigator III
+1165,3066,Elder Protective Investigator I
+1166,3049,Hospitality Worker
+1167,3033,Assistant Regional Director - Aging
+1168,3032,Regional Director - Aging
+1169,3025,Assistant Community Living Specialist
+1170,3024,Community Living Specialist-Hourly
+1171,3022,Assistant Aging and Disability Resource Network Manager
+1172,2918,Chief Planning Analyst
+1173,0709,Volunteer Services Coordinator
+1174,3743,Public Health Aide
+1175,3429,Case Manager Assistant
+1176,3437,Director of Nutrition
+1177,3413,Regional Nutrition Coordinator
+1178,3412,Public Health Nutritionist III
+1179,3411,Public Health Nutritionist II
+1180,3410,Public Health Nutritionist I
+1181,3409,Nutrition Technician
+1182,3954,Director of Children Services
+1183,3899,Program Development Coordinator
+1184,1233,Licensing Coordinator
+1185,0904,Supervising Audio-Vision Tester
+1186,0903,Audio-Vision Tester
+1187,0804,Executive Secretary II - Excluded
+1188,0102,Accountant II
+1189,3019,Director of Homeless Prevention - Policy and Planning
+1190,910G,Crime Detection Specialist
+1191,8725,Commander
+1192,1439,Financial Planning Analyst
+1193,1940,Supervising Rehabilitation Construction Specialist
+1194,1939,Rehabilitation Construction Specialist
+1195,1143,Operations Analyst
+1196,1692,Court File Clerk
+1197,3566,Behavioral Health Assistant
+1198,3094,Human Relations Specialist II
+1199,3084,Human Relations Investigator I
+1200,3073,Disability Specialist II
+1201,3072,Disability Specialist III
+1202,7132,Mobile Unit Operator
+1203,2122,Director of Conservation Inspections
+1204,2123,Assistant Director of Conservation Inspections

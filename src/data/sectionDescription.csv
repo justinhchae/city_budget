@@ -1,0 +1,453 @@
+id,section_code,section_description
+0,3005,Executive
+1,3006,Correspondence
+2,3007,Scheduling and Advance
+3,3010,Administrative
+4,3015,Office of the Press Secretary
+5,3100,Office of the Chief Financial Officer
+6,3105,Office of Community Engagement
+7,3110,Office of Infrastructure and Services
+8,3115,Office of Education and Human Services
+9,3120,Office of Intergovernmental Affairs
+10,3125,Office of Risk Management
+11,3130,Office of Equity and Racial Justice
+12,3135,Office of Neighborhood and Economic Development
+13,3140,Office of Public Safety
+14,3145,Office of Policy
+15,3010,Operations
+16,3015,Legal
+17,3020,Investigations
+18,3027,Audit and Program Review
+19,3032,Public Safety Audit
+20,3040,Diversity  Equity  Inclusion  and Compliance
+21,3005,Administration
+22,3050,Revenue and Expenditure Analysis
+23,3055,Management Initiatives
+24,3060,Compensation Control
+25,3063,Applications
+26,3065,Capital / Motor Fuel Tax Administration
+27,3070,Data Analytics
+28,3005,City Council
+29,3012,Council Office of Financial Analysis
+30,3030,Administration
+31,3040,Homeownership Programs
+32,3045,Construction and Compliance
+33,3010,Index Division
+34,3015,City Council Research and Record Service
+35,3001,Office of the City Comptroller
+36,3002,Internal Audit
+37,3003,Contract Review and Audit
+38,3009,Financial Systems Support
+39,3011,Fiscal Administration
+40,3012,Personnel
+41,3018,Administration
+42,3019,Accounting and Financial Reporting
+43,3041,Grant and Project Accounting
+44,3014,Administration
+45,3016,Financial Strategy
+46,3017,Financial Operations
+47,3100,Administration
+48,3154,Payment Processing
+49,3156,Tax Policy and Administration
+50,3157,Street Operations
+51,3220,Accounts Receivable
+52,3015,Financial Reporting
+53,3020,Administration
+54,3005,Office of the Director
+55,3010,Finance and Administration
+56,3015,Operational Services
+57,3006,Administration
+58,3007,Appeals
+59,3011,Building and License Enforcement
+60,3014,Constitutional and Commercial Litigation
+61,3019,Torts
+62,3022,Employment Litigation
+63,3023,Affirmative Litigation
+64,3028,Labor
+65,3031,Legal Counsel
+66,3038,Aviation  Environmental and Regulatory Litigation
+67,3039,Investigations and Prosecutions
+68,3045,Real Estate
+69,3046,Revenue Litigation
+70,3049,Collections  Ownership and Administrative Litigation
+71,3125,Federal Civil Rights Litigation
+72,3144,Finance and Economic Development
+73,3015,Workforce Compliance
+74,3026,Information Services
+75,3035,Testing Services
+76,3040,Employment Services  Hiring and Compensation
+77,3620,Employment Services  Hiring and Compensation
+78,3006,Departmental Administration
+79,3012,Contract Management
+80,3022,Certification and Compliance
+81,3001,Office of the Commissioner
+82,3110,Finance and Administration
+83,3111,Human Resources
+84,3112,Systems and Performance Improvement
+85,3101,Facilities Management
+86,3102,Architecture and Construction
+87,3106,Graphics Services
+88,3107,Energy Services
+89,3108,Document Retention
+90,3115,Environmental Health and Safety
+91,3231,Leasing / Real Estate Portfolio Management
+92,3200,Fleet Administration
+93,3201,Equipment Project Management
+94,3214,Fuel Services
+95,3216,Accidents and Assessments
+96,3219,Fleet Maintenance Operations
+97,3220,Road Services
+98,3226,CPD Motor Maintenance
+99,3300,Chief Technology Office
+100,3305,IT Finance and Administration
+101,3310,IT Project Management
+102,3320,IT Enterprise Applications
+103,3350,IT Technical Operations
+104,3360,IT Network and Telecommunications
+105,3370,IT Data Center Operations
+106,3375,IT Information Security Office
+107,3380,IT Data Science Office
+108,3385,IT Software Development
+109,3395,IT Design
+110,3015,Electronic Voting Systems
+111,3020,Election Support
+112,3025,Voting Machine Equipment  Ballot Preparation and Supplies
+113,3041,Community Services and Deputy Registrars
+114,3051,Voter Records and Data Processing
+115,3005,Commissioner's Office
+116,3006,Public Information
+117,3007,Community Engagement
+118,3008,Epidemiology
+119,3010,Fiscal Administration
+120,3015,Human Resources
+121,3020,Grants Development  Policy and Planning
+122,3028,Contract and Compliance
+123,3035,Information Technology and Informatics
+124,3036,Chronic Disease
+125,3044,Behavioral Health
+126,3055,Public Health Nursing Services
+127,3215,Mental Health Administration
+128,3052,Environmental Permitting and Inspections
+129,3330,Food Sanitation
+130,3331,Tuberculosis Control
+131,3332,Adolescent and School Health
+132,3352,STI Prevention and Control
+133,3380,Communicable Disease Control
+134,3005,Promoting Human Relations
+135,3007,Administration
+136,3009,Advisory Council on Equity
+137,3005,Executive Administration
+138,3020,Support Services
+139,3030,Employment
+140,3040,Accessibility Compliance
+141,3060,Public Policy and Public Affairs
+142,3001,Executive Office
+143,3006,Fiscal Administration
+144,3008,Contracts and Compliance
+145,3009,Grant Development  Policy and Planning
+146,3025,Youth Programming
+147,3030,Homeless Services
+148,3035,Fiscal and Programmatic Monitoring
+149,3015,Personnel Management
+150,3020,Information Technology
+151,3035,Administration
+152,3041,Economic Development
+153,3088,Zoning and Land Use
+154,3089,Planning  Historical Preservation  and Sustainability
+155,3005,Chicago Police Board
+156,3004,Office of the Superintendent
+157,3021,Office of the Chief of Staff
+158,3427,Bureau of Internal Affairs
+159,3429,Community Policing Group
+160,3437,Special Activities Section
+161,3438,Compstat Group
+162,3055,First Deputy Superintendent
+163,3057,Office of Operations
+164,3059,Areas
+165,3274,Bureau of Detectives
+166,3282,Youth Investigations Division
+167,3287,Central Investigations Division
+168,3291,Forensic Services Division
+169,3294,Investigative Response Team
+170,3330,Bureau of Counter-Terrorism
+171,3331,Special Events Section
+172,3332,Deployment Operations Section
+173,3334,Public Transportation Division
+174,3338,Special Functions Division
+175,3339,Counter-Terrorism Division
+176,3423,Criminal Network Group
+177,3350,Office of Constitutional Policing and Reform
+178,3351,Court Section
+179,3352,Alternate Response Section
+180,3355,Administrative Support Division
+181,3358,Training and Support
+182,3360,Audit Division
+183,3614,Reform Management Group
+184,3616,Research and Development
+185,3005,Office of the Executive Director
+186,3020,Administrative Services
+187,3045,Non-Emergency Services
+188,3050,City Operations
+189,3100,Departmental Administration
+190,3102,Office of the First Deputy
+191,3104,Operations
+192,3106,Administrative Services
+193,3108,Support Services
+194,3112,Fire Prevention
+195,3010,Investigations
+196,3020,Public Outreach
+197,3012,Information Technology
+198,3015,Plan Review
+199,3016,Code Enforcement
+200,3017,Code Compliance
+201,3025,Technical Inspections
+202,3040,Small Projects
+203,3010,Advocacy and Outreach
+204,3011,Intergovernmental Affairs and Special Projects
+205,3012,Small Business Advocacy
+206,3013,Small Business Center
+207,3018,Public Vehicle Licenses and Permits
+208,3019,Local Liquor Control
+209,3031,Business Compliance Enforcement
+210,3032,Office of Labor Standards
+211,3046,Prosecutions and Adjudications
+212,3090,MPEA Administration
+213,3003,Administration
+214,3005,Animal Control
+215,3010,Animal Care
+216,3015,Anti-Cruelty
+217,3005,Liquor License Revocation Appeals
+218,3004,Departmental Administration
+219,3009,Personnel/Payroll/Legal
+220,3010,Financial Administration
+221,3050,Solid Waste Collection
+222,3076,Rodent Control - Administration
+223,3077,Vector Control
+224,3078,Cart Management
+225,3079,Dead Animal Recovery
+226,3320,Equipment Support Services
+227,3335,Graffiti Blasters Program
+228,3390,Field Operations
+229,3127,Administration
+230,3128,Forestry - Support
+231,3136,Forestry Operations
+232,3137,Tree Removal
+233,3201,General Support
+234,3204,Public Information
+235,3205,Intergovernmental Support
+236,3207,Performance Management
+237,3209,Construction Services
+238,3215,General Support
+239,3216,Finance
+240,3217,Contracts
+241,3218,Human Resources
+242,3130,Traffic Safety
+243,3139,Sign Management
+244,3245,General Support
+245,3246,Programming and Planning
+246,3247,Public Way Policy
+247,3248,Neighborhood Enhancement and Sustainable Development
+248,3270,Electrical Operations and Maintenance
+249,3275,Electrical Construction
+250,3255,Project Oversight
+251,3256,Labor
+252,3010,Portfolio Management
+253,3025,Economic Development
+254,3249,Collections  Ownership and Administrative Litigation
+255,3644,Finance and Economic Development
+256,3720,Employment Services  Hiring and Compensation
+257,3222,Fleet Operations - Water
+258,3215,Plan Review
+259,3003,Agency Management
+260,3005,Management Support
+261,3010,Public Relations
+262,3015,Cost Recovery
+263,3075,Safety and Security
+264,3048,Agency Management
+265,3060,Purchasing
+266,3065,Personnel/Payroll/Labor Relations
+267,3071,Information Technology
+268,3072,Finance
+269,3103,Agency Management
+270,3105,Capital Planning
+271,3110,Engineering Services
+272,3116,Inspections Services
+273,3121,Design and Construction Services
+274,3203,Agency Management
+275,3205,Water Quality
+276,3210,Water Pumping
+277,3215,Water Treatment
+278,3249,Agency Management
+279,3256,Equipment Coordination/Warehouse and Stores
+280,3257,Communications
+281,3259,Evaluations
+282,3261,System Installation and Maintenance
+283,3263,Systems Installations
+284,3265,Reimbursable Personnel
+285,3340,Agency Management
+286,3345,Meter Services
+287,3350,Water Meter Installation and Repair
+288,3025,Issuance of Vehicle Licenses
+289,3030,Customer Processing Center
+290,3035,License Compliance Unit
+291,3040,Mail  Microfilm and Records
+292,3349,Collections  Ownership and Administrative Litigation
+293,3045,Deep Foundation Review
+294,3301,Administration
+295,3325,Field Operations
+296,3351,Street Sweeping Divisions and Wards
+297,3211,Administration
+298,3214,Special Traffic Services
+299,3217,Contractual Towing
+300,3222,Auto Pounds
+301,3223,Citywide Dispatch
+302,3224,Traffic Services Supervision
+303,3225,Towing / Relocation Services
+304,3222,Electrical Engineering and Inspection
+305,3223,Quality Assurance Engineering
+306,3224,Design
+307,3225,General Support
+308,3228,Major Projects - Design and Construction
+309,3229,Construction Supervision
+310,3230,Bridges
+311,3231,Neighborhood Improvements
+312,3232,Landscape Management
+313,3233,Transit Design
+314,3236,Public Way Management
+315,3264,One Call Program
+316,3265,Program Support
+317,3280,Reimbursable Personnel
+318,3355,Project Oversight
+319,3444,Finance and Economic Development
+320,3223,Fleet Operations - Sewer
+321,3030,Engineering Services
+322,3035,Plumbing Inspection
+323,3359,Evaluations
+324,3363,Systems Installations
+325,3364,Inspection Services
+326,3390,IT Technical Support Services
+327,3005,Administration and Support Services
+328,3010,References and Circulation Services
+329,3016,Technical Services
+330,3021,Property Management Services
+331,3030,Emergency Management
+332,3040,Office of International Relations
+333,3200,Executive Administration
+334,3205,Finance and Administration
+335,3210,Arts and Creative Industries
+336,3215,Events Programming
+337,3220,Strategic Initiatives and Partnerships
+338,3225,Marketing and Communication
+339,3232,Cultural Planning and Operations
+340,3235,Chicago Film Office
+341,3224,Fleet Operations - Midway
+342,3336,Airport Operations South - Midway
+343,3010,Chicago Midway Airport
+344,3707,Appeals
+345,3749,Collections  Ownership and Administrative Litigation
+346,3225,Fleet Operations - O'Hare
+347,3335,Airport Operations North - O'Hare
+348,3015,Chicago-O'Hare International Airport
+349,3035,Housing Development
+350,3040,TIF Administration
+351,3044,Finance and Economic Development
+352,3058,Solid Waste Disposal
+353,3935,Grants Administration
+354,3855,Central Grants Management
+355,381V,Family Connects
+356,3721,Resource Conservation
+357,3815,Cable Local Origination
+358,380L,Lead Poisoning Surveillance
+359,3819,Hospital Preparedness Program (HPP)
+360,3853,Public Health Emergency Preparedness (PHEP)
+361,3829,Emergency Preparedness
+362,3934,Vaccine Preventable Diseases
+363,3816,HIV Morbidity and Risk Behavior
+364,3938,Tuberculosis
+365,380Y,HIV Surveillance and Prevention
+366,3944,Lead Hazard Reduction
+367,380R,C3 Clinical and Translation Research
+368,3714,Air Pollution Control Program
+369,3710,Building Epidemiology and Health IT Capacity
+370,3729,Genetics Education / Follow Up Services
+371,3924,STI Surveillance
+372,381D,Injury Prevention and Control Research
+373,3993,Housing Opportunities for People with AIDS (HOPWA)
+374,3731,Ryan White HIV Care Act Part A - Emergency Relief
+375,3820,Securing the City
+376,3823,Securing the City
+377,380H,Unified Work Program
+378,3906,Administration and Support Services
+379,3910,Reference and Circulation Services
+380,3915,Unassigned Technical Services
+381,3836,Walder Fellowship
+382,3837,My Chi - My Future
+383,3833,Home Investment Partnership
+384,3819,Home Investment Partnership
+385,3812,Work Incentive Planning and Assistance
+386,3949,Motor Vehicle Theft Prevention
+387,380Z,Crime Victim Assistance
+388,3854,Urban Areas Security Initiative
+389,3815,Urban Areas Security Initiative
+390,380V,Urban Areas Security Initiative
+391,3811,Urban Areas Security Initiative
+392,3720,Underground Storage Tank Inspection
+393,3722,Solid Waste Management
+394,3905,Head Start
+395,3807,OAA Title V / Senior Community Service Employment
+396,3964,Alzheimer's Disease Program Initiatiive
+397,3805,Community Services Block Grant
+398,3815,Foster Grandparents
+399,3904,Area Plan on Aging
+400,3730,Local Health Protection
+401,3911,MCH Block Grant
+402,3906,Childhood Lead Poisoning Prevention
+403,3910,WIC Nutrition Services
+404,3852,Anadarko / Streeterville Removal
+405,381F,Anadarko / Streeterville Removal
+406,3831,Workforce Innovation
+407,3805,Substance Abuse Prevention
+408,3868,Senior Companion Project - Action
+409,3896,CHA Family Supportive Services
+410,3942,Emergency and Transitional Housing
+411,3943,Child Care Services
+412,3944,Emergency Solutions
+413,3946,Senior Health Assistance Program
+414,3962,Early Childhood Block Grant
+415,3810,Edward Byrne Memorial Justice Assistance Grant (JAG)
+416,3996,Edward Byrne Memorial Justice Assistance Grant (JAG)
+417,3921,Transit Security
+418,3983,COPS Hiring Program
+419,3844,Violence Against Women - Domestic Violence Protection
+420,3810,Fire Academy Training and Improvement
+421,3806,Tobacco Free Communities
+422,3837,Vector Control Tire Administration
+423,3947,HIV Behavioral Surveillance
+424,3505,Administration and Monitoring
+425,3556,Developer Services
+426,3557,Housing Preservation
+427,3558,Emergency Repair
+428,3559,Housing Services and Assistance
+429,3560,Homeownership Counseling Services
+430,3561,Small Accessible Repairs for Seniors
+431,3562,Neighborhood Lending
+432,3563,Construction and Compliance
+433,3512,Grant and Project Accounting
+434,3515,Code Enforcement
+435,3525,Environmental Review
+436,3555,Lead Paint Identification & Abatement
+437,3577,Mental Health Clinics
+438,3505,Education  Outreach and Intergroup Relations
+439,3510,Fair Housing
+440,3503,Administration
+441,3505,Programs for the Disabled
+442,3535,Home Mod
+443,3520,Human Services Programs
+444,3516,Homeless Services
+445,3530,Workforce Services Program
+446,3540,Senior Services Programs
+447,3550,Domestic Violence Programs
+448,3505,Finance and Human Resources
+449,3506,Communications and Outreach
+450,3510,Code Enforcement
+451,3515,Strategic Task Force
