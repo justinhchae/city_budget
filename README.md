@@ -1,11 +1,7 @@
 # city_budget
-
- A test for satyrn ring.
  
- Consumes the 2021 budget for the city of Chicago. 
+ Consumes the 2021 budget for the city of Chicago and normalizes it into tables.
  
- Normalizes the data into a few tables to exercise alchemy relationships and back prop. 
+ The normalized tables are used to exercise alchemy relationships and back population. 
  
  Automates creation of class variables needed to make schema.
- 
- 
