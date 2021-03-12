@@ -46,8 +46,8 @@ def parse_position_control_column(df):
     """
     logging.info('parse_position_control_column() Parse budget data for position_control and total_budgeted_unit.')
 
-    df['total_budgeted_unit_people'] = np.where(df['position_control'] == 1, df['total_budgeted_unit'], np.nan)
-    df['total_budgeted_unit_time'] = np.where(df['position_control'] == 0, df['total_budgeted_unit'], np.nan)
+    df['total_budgeted_unit_people'] = np.where(df['position_control'] == 1, df['total_budgeted_unit'], 0)
+    df['total_budgeted_unit_time'] = np.where(df['position_control'] == 0, df['total_budgeted_unit'], 0)
 
     df = df.drop(columns=['total_budgeted_unit'])
 

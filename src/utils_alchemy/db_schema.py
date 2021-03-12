@@ -13,7 +13,7 @@ class BudgetDB():
     path = db_folder
     full_path = os.sep.join([db_folder, db_name])
     engine_name = f'sqlite:///{full_path}'
-    engine = create_engine(engine_name, echo=True)
+    engine = create_engine(engine_name, echo=True, connect_args={'check_same_thread': False})
 
 class SectionDescription(BudgetDB.base):
     __tablename__ = "sectionDescription"
