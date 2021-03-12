@@ -35,8 +35,10 @@ class TitleDescription(BudgetDB.base):
 
 class DepartmentDescription(BudgetDB.base):
     __tablename__ = "departmentDescription"
+    # primary key with the code value which is assumed to be unique within this table
     department_code = Column(Integer, primary_key=True)
     department_description = Column(String)
+    # complete the relationship by establishing a back population to the main table
     main = relationship("Budget2021", back_populates="department_description", uselist=True)
 
 class Budget2021(BudgetDB.base):
@@ -45,6 +47,7 @@ class Budget2021(BudgetDB.base):
     # df = get_vars_main('budget_main.csv')
     id = Column(Integer, primary_key=True)
     fund_type = Column(String)
+    # the code is a value like 4355 that means "Department A" -> F key to the table the name of the dept.
     department_code = Column(Integer, ForeignKey("departmentDescription.department_code"))
     fund_code = Column(String, ForeignKey("fundDescription.fund_code"))
     organization_code = Column(Integer)
@@ -67,4 +70,5 @@ class Budget2021(BudgetDB.base):
     section_description = relationship("SectionDescription", back_populates="main", uselist=True)
     fund_description = relationship("FundDescription", back_populates="main", uselist=True)
     title_description = relationship("TitleDescription", back_populates="main", uselist=True)
+    # use relationship and back population to merge code with description
     department_description = relationship("DepartmentDescription", back_populates="main", uselist=True)
