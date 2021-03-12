@@ -119,5 +119,3 @@ dmypy.json
 # git rm -r --cached .
 .idea/
 *.DS_Store
-satyrn-templates/
-satyrn-platform/
