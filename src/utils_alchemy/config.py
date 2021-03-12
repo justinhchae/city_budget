@@ -13,6 +13,7 @@ import ntpath
 db_folder = os.sep.join([os.environ['PWD'], 'db'])
 db_class_name = 'BudgeDB.base'
 db_table_name = 'budget2021'
+db_name = 'budget.db'
 
 def get_vars_main(filename):
     """

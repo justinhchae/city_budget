@@ -9,7 +9,6 @@ def make_db(data_paths):
 
 class BudgetDB():
     base = declarative_base()
-    db_name = 'budget.db'
     path = db_folder
     full_path = os.sep.join([db_folder, db_name])
     engine_name = f'sqlite:///{full_path}'
