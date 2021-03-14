@@ -1,4 +1,4 @@
-from utils_data.config import *
+from src.utils_data.config import *
 
 def run_dataprep_pipeline(filename):
     full_path = os.sep.join([data_folder, filename])

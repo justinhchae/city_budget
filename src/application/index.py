@@ -1,5 +1,5 @@
-from application.config import *
-from application.connect_db import connect_db
+from src.application.config import *
+from src.application.connect_db import connect_db_session, connectivity, check_connectivity
 import pandas as pd
 from PIL import Image
 
@@ -25,10 +25,13 @@ class Application():
     def body(self):
         # execute st calls for body section
         # a header for this section
-        sub_title = 'Testing and Exploring the SQLAlchmey Schema'
+        sub_title = 'Testing and Exploring the SQL Alchemy Schema'
         st.markdown(f"<h3 style='text-align: center; color: black;font-family:courier;'>{sub_title}</h3>", unsafe_allow_html=True)
         # display some overview graphs
-        st.write(connect_db())
+        x = connect_db_session()
+        # st.write(x)
+        # connection = connectivity(x)
+        # check_connectivity(session)
 
     def footer(self):
         # make st calls for footer section here

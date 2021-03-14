@@ -1,5 +1,5 @@
-from utils_data.data_pipeline import run_dataprep_pipeline
-from utils_alchemy.db_schema import *
+from src.utils_data.data_pipeline import run_dataprep_pipeline
+from src.utils_alchemy.db_schema import *
 
 if __name__ == '__main__':
     # read a source file

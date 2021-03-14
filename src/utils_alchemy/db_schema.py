@@ -1,4 +1,4 @@
-from utils_alchemy.config import *
+from src.utils_alchemy.config import *
 
 def make_db(data_paths):
     logging.info('make_db() Creating and writing SQL Alchemy Database')

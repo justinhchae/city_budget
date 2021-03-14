@@ -1,4 +1,4 @@
-from utils_data.config import cols_to_normalize, data_folder, logging
+from src.utils_data.config import cols_to_normalize, data_folder, logging
 
 import pandas as pd
 import numpy as np
