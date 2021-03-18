@@ -1,5 +1,5 @@
 from src.application.config import *
-from src.utils_alchemy.db_schema import BudgetDB
+from src.utils_alchemy.db_schema import BudgetDB, Budget2021
 from src.utils_alchemy.config import sessionmaker, create_engine, db_name
 
 import contextlib
@@ -22,23 +22,36 @@ def connectivity(engine):
 
     return connect
 
-def connect_db_session():
-    try:
-        dirPath = os.path.dirname(os.path.realpath(__file__))
-    except:
-        dirPath = os.getcwd()
+def data_frame(query, columns):
+    """
+    Takes a sqlalchemy query and a list of columns, returns a dataframe.
+    Ref: http://danielweitzenfeld.github.io/passtheroc/blog/2014/10/12/datasci-sqlalchemy/
+    """
+    def make_row(x):
+        return dict([(c, getattr(x, c)) for c in columns])
+    return pd.DataFrame([make_row(x) for x in query])
 
+def connect_db_session(db_path):
     # the key attrs
-    path = "sqlite:///{}/{}".format(dirPath, db_name)
+    path = "sqlite:///{}/{}".format(db_path, db_name)
 
-    # this leads to an error
-    # con = sqlite3.connect(path)
-    # instead create engine
+    # instead create sql engine
     engine = create_engine(path, connect_args={'check_same_thread': False})
-    # Session = sessionmaker(bind=engine)
-    # Base = BudgetDB.base
+    # next line not currently in use, but might need it later
+    Session = sessionmaker(bind=engine)
+    session = Session()
 
-    # TODO: test schema connection, graph schema, and query schema
+    # test = pd.read_sql('SELECT * FROM budget2021', engine)
+    test = pd.read_sql_table(table_name='budget2021', con=session.connection(), index_col='id')
+    # st.write(test)
+
+    res = session.query(Budget2021).filter(Budget2021.total_budgeted_amount > 210000).limit(10).all()
+
+    df = data_frame(res, [c.name for c in Budget2021.__table__.columns])
+
+    st.write(df)
+
+    #TODO: back populate ORM relationships
 
     return engine
 

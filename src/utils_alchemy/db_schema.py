@@ -42,6 +42,7 @@ class DepartmentDescription(BudgetDB.base):
 
 class Budget2021(BudgetDB.base):
     __tablename__ = "budget2021"
+    __table_args__ = {'autoload': True, 'autoload_with': BudgetDB.engine}
     # uncomment the following line to print out this class as text
     # df = get_vars_main('budget_main.csv')
     id = Column(Integer, primary_key=True)

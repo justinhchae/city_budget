@@ -7,6 +7,7 @@ class Application():
     def __init__(self):
         # the text that displays in the tab at the very top of the page
         st.set_page_config(page_title='Chicago Budget Ordinance 2021 Analysis')
+        self.db_path = os.sep.join([os.environ['PWD'], 'db'])
 
     def run_app(self):
         # primary app call will run everything contained in frame()
@@ -25,10 +26,10 @@ class Application():
     def body(self):
         # execute st calls for body section
         # a header for this section
-        sub_title = 'Testing and Exploring the SQL Alchemy Schema'
+        sub_title = 'Testing and Exploring the SQL Alchemy Schema with the Chicago 2021 Budget Ordinance'
         st.markdown(f"<h3 style='text-align: center; color: black;font-family:courier;'>{sub_title}</h3>", unsafe_allow_html=True)
         # display some overview graphs
-        x = connect_db_session()
+        x = connect_db_session(self.db_path)
         # st.write(x)
         # connection = connectivity(x)
         # check_connectivity(session)
